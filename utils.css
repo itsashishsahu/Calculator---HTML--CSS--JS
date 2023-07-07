@@ -1,0 +1,24 @@
+.row{
+    margin-top: 10px;
+}
+input{
+    padding: 5px;
+    border: 2px solid black;
+}
+button{
+    margin: px;
+    height: 4vh;
+    width: 2.7vw;
+    background-color: greenyellow;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover{
+    background: #000;
+    color: whitesmoke;
+}
+.zero{
+    padding: 0 2.6vw;
+}
